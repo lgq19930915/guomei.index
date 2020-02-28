@@ -1,0 +1,36 @@
+{
+    "banner": [{
+            "img": "banner/banner1.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201806/27/4619326802.html"
+        },
+        {
+            "img": "banner/banner2.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201806/19/1772181161.html"
+        },
+        {
+            "img": "banner/banner3.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201807/19/kt726cold.html"
+        },
+        {
+            "img": "banner/banner4.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201807/18/shjdpphjsd.html"
+        },
+        {
+            "img": "banner/banner5.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201807/19/9564912727.html"
+        },
+        {
+            "img": "banner/banner8.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201806/28/3691362477.html"
+        },
+        {
+            "img": "banner/banner7.jpg",
+            "href": "//prom.gome.com.cn/html/prodhtml/topics/201807/11/7651167764.html"
+        },
+        {
+            "img": "banner/banner6.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html"
+        }
+    ]
+
+}

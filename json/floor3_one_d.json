@@ -1,0 +1,65 @@
+{
+    "floor3_one_d": [{
+            "img": "images/floor3/floor3_one_a1.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "长虹55英寸人工智能电视",
+            "price": "1599.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a2.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "TCL 55英寸 4K智能电视",
+            "price": "1599.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a3.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海信65英寸人工智能电视",
+            "price": "2699.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a4.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小米43英寸人工智能电视",
+            "price": "1299.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a5.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海尔55英寸人工智能电视",
+            "price": "1799.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a6.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "康佳55英寸4K超高清智能电视",
+            "price": "1699.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a7.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "创维65英寸4K超高清智能电视",
+            "price": "2599.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a8.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "索尼55英寸4K智能电视",
+            "price": "3999.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a9.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "TCL 32英寸经典蓝光机",
+            "price": "699.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_a10.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "TCL 50英寸高画质4K电视",
+            "price": "1499.00"
+        }
+
+    ]
+
+}

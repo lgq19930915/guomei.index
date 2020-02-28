@@ -1,0 +1,65 @@
+{
+    "floor3_one_b": [{
+            "img": "images/floor3/floor3_one_b1.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海尔10kg滚筒洗衣机",
+            "price": "1699.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b2.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "荣事达7kg波轮洗衣机",
+            "price": "799.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b3.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "西门子8kg滚筒洗衣机",
+            "price": "4199.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b4.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "三星9kg变频滚筒洗衣机",
+            "price": "6490.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b5.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海尔8kg波轮洗衣",
+            "price": "1099.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b6.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小天鹅8kg波轮洗衣机",
+            "price": "1099.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b7.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "松下10kg滚筒洗衣机",
+            "price": "5298.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b8.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海尔9kg滚筒洗衣机",
+            "price": "1799.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b9.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海信7kg波轮洗衣机",
+            "price": "899.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_b10.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "西门子10kg滚筒洗衣机",
+            "price": "4499.00"
+        }
+
+    ]
+
+}

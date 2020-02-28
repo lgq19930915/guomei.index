@@ -1,0 +1,65 @@
+{
+    "floor2_one_b": [{
+            "img": "images/floor2/floor2_one_b1.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "Apple 2019款 MacBook Air 13.3 Retina屏 八代i5 8G 128G SSD 银色 苹果笔记本电脑 轻薄本 MVFK2CH/A",
+            "price": "8188.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b2.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华硕(ASUS) 飞行堡垒7 FX95 九代i7 15.6英寸游戏笔记本电脑(i7-9750H 8G 512SSD GTX1650 120Hz)金属电竞",
+            "price": "6599.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b3.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "联想(Lenovo)小新14.0英寸酷睿I5轻薄本笔记本电脑(i5-8265U 8G 256GB MX230 2G独显 高清屏)渣渣灰",
+            "price": "4499.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b4.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "宏碁（Acer）A314-32-C24Q 14英寸笔记本电脑（四核N4100 4G 500G win10 黑)",
+            "price": "1999.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b5.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华硕(ASUS) 灵耀S4300 (i5-8250U 8G 256G SSD 2G独显)冰钻金",
+            "price": "5099.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b6.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "ThinkPad T490(08CD)14.0英寸笔记本电脑 (I5-8265U 8G 512G硬盘 集显 FHD 指纹识别 Win10 黑色）",
+            "price": "6599.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b7.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "掠夺者战斧300 PH315 15.6英寸电竞游戏笔记本电脑(i7-9750H 8G+8G 512G PCIe GTX1660Ti-6G IPS FPS Win10 )",
+            "price": "11499.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b8.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "戴尔灵越5000 fit 15.6英寸高性能轻薄窄边框笔记本电脑 可选十代i5/i7处理器 MX250 2G独显(5598-R1725S.十代i7 8G内存/512G固态/标配)",
+            "price": "6599.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b9.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "戴尔（DELL）灵越INS 14-5480 14英寸轻薄笔记本电脑（i5-8265U 8G 256G固态 Win10） 银",
+            "price": "3999.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_b10.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "惠普(HP)星14-ce3030TX 14英寸轻薄笔记本电脑(i5-1035G1 8G 1TB MX250 2G FHD IPS)金",
+            "price": "5199.00"
+        }
+
+    ]
+
+}

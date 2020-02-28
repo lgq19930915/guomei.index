@@ -1,0 +1,28 @@
+{
+    "floor2_one": [{
+            "img": "images/floor2/floor2_one1.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1"
+        },
+        {
+            "img": "images/floor2/floor2_one2.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1"
+        },
+        {
+            "img": "images/floor2/floor2_one3.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1"
+        },
+        {
+            "img": "images/floor2/floor2_one4.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1"
+        },
+        {
+            "img": "images/floor2/floor2_one5.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1"
+        },
+        {
+            "img": "images/floor2/floor2_one6.jpg",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1"
+        }
+    ]
+
+}

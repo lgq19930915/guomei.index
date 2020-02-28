@@ -1,0 +1,65 @@
+{
+    "floor2_one_f": [{
+            "img": "images/floor2/floor2_one_f1.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华硕(ASUS) ZenPad3S 10 9.7英寸Z500KL平板电脑（六核处理器 4GB 64GB 联通移动 双4G上网）",
+            "price": "2099.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f2.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "Apple iPad 平板电脑 2019年新款 10.2英寸（128G Wifi版/A10 Fusion芯片/视网膜显示屏/MW782CH/A）银色",
+            "price": "2999.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f3.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "微软（Microsoft）Surface Go 二合一平板电脑 10英寸（奔腾4415Y 4G内存 64G存储）",
+            "price": "2988.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f4.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "微软 Surface Pro 7 二合一平板笔记本电脑 12.3英寸 第十代酷睿i5 8G 256G SSD 亮铂金",
+            "price": "9588.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f5.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为(HUAWEI) M6 8.4英寸 平板电脑 游戏版 高能版（6G内存/128G存储 WIFI版)幻影蓝",
+            "price": "2459.90"
+        },
+        {
+            "img": "images/floor2/floor2_one_f6.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小米（MI）小米平板4 8英寸 10英寸 平板电脑 骁龙660 AI语音 Wifi 黑色 金色 Plus LTE版(金色 WiFi版 4G+64G)",
+            "price": "1399.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f7.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为(HUAWEI)畅享平板电脑10.1英寸（八核+微智核i5 4G内存/64G存储 通话版) 香槟金",
+            "price": "1699.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f8.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "Apple iPad Air 3 2019年新款平板电脑 10.5英寸（64G WLAN版/A12芯片/Retina显示屏/MUUL2CH/A）金色",
+            "price": "3506.90"
+        },
+        {
+            "img": "images/floor2/floor2_one_f9.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "微软（Microsoft）Surface Pro 6 二合一平板电脑笔记本 12.3英寸（第八代酷睿 i5 8G 128GSSD）亮铂金",
+            "price": "7188.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_f10.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为(HUAWEI) M5 8.4英寸 平板电脑（八核 4G内存/64G存储 WiFi版) 香槟金",
+            "price": "2488.00"
+        }
+
+    ]
+
+}

@@ -1,0 +1,65 @@
+{
+    "floor3_one_f": [{
+            "img": "images/floor3/floor3_one_c1.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海尔258L三门冰箱",
+            "price": "2399.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c2.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "西门子610L对开门冰箱",
+            "price": "6799.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c3.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "美的535L对开门冰箱",
+            "price": "2889.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c4.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "美菱568L对开门冰箱",
+            "price": "3799.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c5.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "美菱362L多门冰箱",
+            "price": "3399.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c6.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "西门子452L十字对开门冰箱",
+            "price": "7999.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c7.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "博世452L十字对开门冰箱",
+            "price": "9399.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c8.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "美菱200L双门冰箱",
+            "price": "1599.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c9.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "海尔642L对开门冰箱",
+            "price": "3799.00"
+        },
+        {
+            "img": "images/floor3/floor3_one_c10.png",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "美的207L双门冰箱电脑控温芙蓉金",
+            "price": "1899.00"
+        }
+
+    ]
+
+}

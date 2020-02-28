@@ -1,0 +1,65 @@
+{
+    "floor2_one_a": [{
+            "img": "images/floor2/floor2_one_a1.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "戴尔（DELL）灵越5000 fit 14英寸英特尔酷睿i5高性能轻薄窄边框笔记本电脑(十代i5-10210U 8G 512G PCIE)银",
+            "price": "48899.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a2.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华硕(ASUS) VivoBook14 14.0英寸轻薄笔记本电脑(i5-8265U 8G 512GSSD MX250 2G独显)银色(V4000)",
+            "price": "4799.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a3.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "惠普(HP)星14-ce3031TX 14英寸轻薄笔记本电脑(i5-1035G1 8G 1TB MX250 2G FHD IPS)粉",
+            "price": "5199.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a4.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为(HUAWEI) M6 8.4英寸 平板电脑 游戏版 高能版（6G内存/128G存储 通话版)幻影红",
+            "price": "2749.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a5.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "艾比格特(IBIG Stor) IBSP6291 旗舰版 无线 移动硬盘 2TB 远程传输 黑",
+            "price": "1399.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a6.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为智慧屏 75英寸4K量子点LED 4+64GB 升降式AI摄像头 视频通话 智慧音响 鸿鹄芯片 智能家居控制 星际黑",
+            "price": "12588.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a7.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为 HUAWEI Sound X AI音箱智能音箱 帝瓦雷60W双低音炮 Hi-Res无损音质 一碰传音 360度均匀声场",
+            "price": "1888.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a8.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小米(MI) MES602 米家声波电动牙刷 T300 磁悬浮马达 无锈无金属植毛 小米电动牙刷 白色",
+            "price": "95.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a9.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小米(MI) DFB201CM 米家小饭煲1.6L 黄金容量 400W烹饪 PFA大金粉体涂层 智能操控 小米电饭煲 白色",
+            "price": "178.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_a10.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "佳能（Canon）PowerShot G7 X Mark III G7X3 数码相机 Vlog相机 视频拍摄",
+            "price": "4898.00"
+        }
+
+    ]
+
+}

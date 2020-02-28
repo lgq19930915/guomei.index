@@ -1,0 +1,65 @@
+{
+    "floor2_one_d": [{
+            "img": "images/floor2/floor2_one_d1.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "Apple AirPods二代 无线蓝牙耳机 无线充电盒版",
+            "price": "1299.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d2.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小米AI音箱",
+            "price": "219.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d3.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为智慧屏 V65",
+            "price": "6599.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d4.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "德生收音机(Tecsun) R305",
+            "price": "69.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d5.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为儿童通话手表 3s ",
+            "price": "598.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d6.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "小度在家1S乐享版",
+            "price": "399.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d7.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "Redmi充电宝 20000mAh",
+            "price": "95.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d8.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "米家空气净化器2S",
+            "price": "699.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d9.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "漫步者头戴式耳机 K800",
+            "price": "69.00"
+        },
+        {
+            "img": "images/floor2/floor2_one_d10.webp",
+            "href": "https://prom.gome.com.cn/html/prodhtml/topics/201707/17/9309839330.html?intcmp=sy-1000060873-1",
+            "describe": "华为手环4",
+            "price": "199.00"
+        }
+
+    ]
+
+}
